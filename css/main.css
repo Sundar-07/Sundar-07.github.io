@@ -55,6 +55,9 @@ a{
 }
 
 /*Section*/
+section{
+  outline:none;
+} 
 
 .home-section{
     background-color: #204051;
